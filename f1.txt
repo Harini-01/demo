@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 mnzjhvhxjihvkcxhkdjcm ,c
-b,mxc ,mvhjncmv jknm
+b,mxc ,mvhjncmv jk
+=======
+Hello world
+gvdshbklgvdsbhmkzl
+fgvdshbjnkldsjk
 
 
-New changeds to check merge conflict
+
+o check branching
+>>>>>>feature_b
 
